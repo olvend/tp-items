@@ -8,7 +8,7 @@
     "Diabet"
   ],
   "contact": {
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/olvend/tp-items"
   },
   "environment": "client",
   "entrypoints": {
